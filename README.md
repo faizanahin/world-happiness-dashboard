@@ -8,7 +8,6 @@ A Streamlit web application for visualizing and exploring world happiness data, 
 - [How to Run the Project](#how-to-run-the-project)
   - [Run Locally](#run-locally)
   - [Run in Google Colab](#run-in-google-colab)
-- [Demo](#demo)
 - [Features](#features)
 - [Dataset](#dataset)
 - [Installation](#installation)
@@ -62,13 +61,7 @@ A Streamlit web application for visualizing and exploring world happiness data, 
 4. **Interact with the dashboard.**
    - Once the Streamlit app is running, follow the provided link to access the dashboard in your browser.
 
----
 
-## Demo
-
-> _You can run the dashboard locally by following the instructions below._
-
----
 
 ## Features
 - **Interactive Filtering:** Filter data by region and country using the sidebar.
